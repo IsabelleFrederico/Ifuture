@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/77753437/117559148-50da6500-b059-11eb-83d3-9d25564be127.png" width="150" /> </p> <h1 align="center">iFuture</h1> <p align="center"> 🍔 Food Delivery Web Application </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/77753437/117559148-50da6500-b059-11eb-83d3-9d25564be127.png" width="150" /> </p> <p align="center"> 🍔 Food Delivery Web Application </p>
 
-📌 About the Project
+#### 📌 About the Project
 
 iFuture is a food delivery web application inspired by platforms like iFood and UberEats.
 The project was developed as part of a full-stack bootcamp and simulates the main features of a modern food delivery platform.
@@ -8,7 +8,7 @@ The project was developed as part of a full-stack bootcamp and simulates the mai
 ⚠️ This project was designed for Portuguese-speaking users, and all interface texts and user flows are written in Portuguese (Brazil).
 
 
-🚀 Live Demo
+#### 🚀 Live Demo
 
 🔗 Surge Deployment:
 http://brown-juice.surge.sh
@@ -19,50 +19,38 @@ http://brown-juice.surge.sh
 
 ### Features
 
-📥 Forms & Inputs
+#### 📥 Forms & Inputs
 
 Data entry and validation
-
 User interactions across multiple pages
 
-🍽️ Feed
+#### 🍽️ Feed
 
 Search restaurants by name
-
 Filter by category
-
 Display active order (remains visible until delivery time ends)
 
-🏪 Restaurant Details
+#### 🏪 Restaurant Details
 
 Add items to cart
-
 Adjust quantities
-
 Remove items
 
-🛒 Cart
+#### 🛒 Cart
 
 Order summary
-
 Checkout flow
 
-👤 Profile
+#### 👤 Profile
 
 View user information
 
-Technologies Used
-
+#### 🛠️ Technologies Used
 React
-
 JavaScript
-
 HTML
-
 CSS
-
 React Router
-
 Axios
 
 ### Team
